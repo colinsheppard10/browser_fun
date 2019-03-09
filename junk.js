@@ -1,0 +1,1 @@
+const myValue = 4;
